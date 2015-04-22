@@ -1,0 +1,70 @@
+body {
+    background-color: #fff3e0;
+    font-size: 17px;
+    position: relative;
+    font-family: 'Helvetica Neue', Helvetica, Arial, 'Heiti TC', 'Microsoft JhengHei', sans-serif;
+}
+
+.header {
+    background-color: #ffb74d;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover {
+    background-color: #fff3e0;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #ffffff;
+    font-size: 17px;
+}
+
+#page-content-wrapper {
+    margin-top: 50px;
+}
+
+#contact, #skills, #interest, #education, #works, #summary {
+    min-height: 350px;
+}
+
+#experience {
+    min-height: 500px;
+}
+
+.highlight{
+    background-color: #ffe0b2;
+}
+
+.title {
+    color: #ff9800;
+    margin-bottom: 30px;
+}
+
+.highlight .thumbnail{
+    background-color: #ffe0b2;
+}
+
+.thumbnail{
+    border: 0;
+    background-color: #fff3e0;
+}
+
+.content {
+    padding-top: 19px;
+    padding-bottom: 10px;
+}
+
+.profile {
+    border-radius: 50%;
+    border:5px solid #fff;
+}
+
+#contact .media-left {
+    padding-right: 30px;
+}
+
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
